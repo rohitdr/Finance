@@ -166,7 +166,7 @@ include("navbar.php");
         <img class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto border" src="photocopy-concept-illustration_114360-1076.webp" alt="" width="500" height="500">
       </div>
       <div class="center m-3 order-md-3">
-      <a href="first.php" class="btn btn-primary btn-lg active text-center center button-92" role="button" aria-pressed="true">PrintOut</a>
+      <a href="first.php" class="btn btn-primary btn-lg active text-center center button-92 " role="button" aria-pressed="true">PrintOut</a>
       </div>
     </div>
     <hr class="featurette-divider">

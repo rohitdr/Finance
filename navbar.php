@@ -17,7 +17,7 @@ padding:5px 21px;
 
 background:#5F3222;
 color:#eee;
-
+border-radius:10px;
 text-align:center;
 
 border-top:2px solid #815444;
@@ -38,7 +38,7 @@ border-left:2px solid #815444;
 .decorate{
   text-decoration:none;
 
-
+  border-radius:10px;
 background:#5F3222;
 color:#eee;
 
@@ -59,7 +59,7 @@ border-left:2px solid #815444;
 }
   </style>
 
-<nav class="navbar navbar-expand-lg  navbar-dark myfont1 shadow  ">
+<nav class="navbar navbar-expand-lg  navbar-dark myfont1   ">
 <!-- logo -->
 <!-- 
 style="background-color:teal; font-family: 'Trirong', serif;
@@ -126,8 +126,8 @@ font-size: 20px;" -->
        
       
       <form class="d-flex" role="search">
-        <input class="form-control rounded-0" type="search" placeholder="Search" aria-label="Search">
-        <button class="btn btn-outline-light rounded-0 " type="submit"><i class="fa-solid fa-magnifying-glass"></i></button>
+        <input class="form-control rounded-1" type="search" placeholder="Search" aria-label="Search">
+        <button class="btn btn-outline-light rounded-1 " type="submit"><i class="fa-solid fa-magnifying-glass"></i></button>
       </form>
      
          

@@ -1,5 +1,32 @@
 
 
+<style>
+
+ .boxing {
+
+text-decoration:none;
+padding:4px 10px;
+
+background:#1c244b6b;
+color:#eee;
+
+text-align:center;
+border-radius:35px;
+border-top:2px solid #815444;
+border-right:2px solid #3d1000;
+border-bottom:2px solid #3d1000;
+border-left:2px solid #815444;
+}
+
+ .boxing:hover {
+background:#ffffff03;
+color:#000;
+border-top:2px solid #815444;
+border-right:2px solid #c59888;
+border-bottom:2px solid #c59888;
+border-left:2px solid #815444;
+}
+  </style>
 <!-- Footer -->
 <footer class="text-center text-lg-start myfont2 text-white" style=" font-family:'Trirong', serif;
   font-size: 20px;
@@ -14,22 +41,22 @@ background-color:teal;">
 
     <!-- Right -->
     <div>
-      <a href="friend.php" class="me-4 text-reset">
+      <a href="friend.php" class="me-2 text-reset boxing">
         <i class="fab fa-facebook-f"></i>
       </a>
-      <a href="" class="me-4 text-reset">
+      <a href="" class="me-2 text-reset boxing">
         <i class="fab fa-twitter"></i>
       </a>
-      <a href="" class="me-4 text-reset">
+      <a href="" class="me-2 text-reset boxing">
         <i class="fab fa-google"></i>
       </a>
-      <a href="" class="me-4 text-reset">
+      <a href="" class="me-2 text-reset boxing">
         <i class="fab fa-instagram"></i>
       </a>
-      <a href="" class="me-4 text-reset">
+      <a href="" class="me-2 text-reset boxing">
         <i class="fab fa-linkedin"></i>
       </a>
-      <a href="" class="me-4 text-reset">
+      <a href="" class="me-2 text-reset boxing">
         <i class="fab fa-github"></i>
       </a>
     </div>
