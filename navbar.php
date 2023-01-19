@@ -59,7 +59,7 @@ border-left:2px solid #815444;
 }
   </style>
 
-<nav class="navbar navbar-expand-lg  navbar-dark myfont1  ">
+<nav class="navbar navbar-expand-lg  navbar-dark myfont1 shadow  ">
 <!-- logo -->
 <!-- 
 style="background-color:teal; font-family: 'Trirong', serif;
@@ -71,10 +71,10 @@ font-size: 20px;" -->
 
   <div class="container-fluid">
  
-   
+<!--    
     <a class="navbar-brand" href="#">
     <img src="logofa.jpg" alt="ANIL" width="50" height="48"  style="margin-right:1px; border-radius:11px;">
-    </a>
+    </a> -->
     <a class="navbar-brand active" href="<?php if(($_SESSION['email']=='admin@gmail.com')){ echo 'database.php';} else{echo 'index.php'; } ?>"><?php if(isset($_SESSION['username'])){ if($_SESSION['username']=='admin'){echo 'Anil Kumar Maurya';} else{echo $_SESSION['username'];}} else {echo 'FINANCIAL ADVISOR'; } ?></a>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarTogglerDemo03" aria-controls="navbarTogglerDemo03" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>

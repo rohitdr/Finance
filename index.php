@@ -56,44 +56,6 @@ body {
  
 include("navbar.php");
 ?>
-<!-- <div id="carouselExampleDark" class="carousel carousel-dark slide px-2 mx-2 my-2" data-bs-ride="carousel">
-  <div class="carousel-indicators">
-    <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
-    <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="1" aria-label="Slide 2"></button>
-    <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="2" aria-label="Slide 3"></button>
-  </div>
-  <div class="carousel-inner">
-    <div class="carousel-item active" data-bs-interval="10000">
-      <img src="slide1.jpg" class="d-block w-100 border" alt="..."  >
-      <div class="carousel-caption d-none d-md-block">
-        <h5>First slide label</h5>
-        <p>Some representative placeholder content for the first slide.</p>
-      </div>
-    </div>
-    <div class="carousel-item" data-bs-interval="2000">
-      <img src="slide2.jpg" class="d-block w-100 border" alt="...">
-      <div class="carousel-caption d-none d-md-block">
-        <h5>Second slide label</h5>
-        <p>Some representative placeholder content for the second slide.</p>
-      </div>
-    </div>
-    <div class="carousel-item">
-      <img src="slide3.jpg" class="d-block w-100 border" alt="...">
-      <div class="carousel-caption d-none d-md-block">
-        <h5>Third slide label</h5>
-        <p>Some representative placeholder content for the third slide.</p>
-      </div>
-    </div>
-  </div>
-  <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleDark" data-bs-slide="prev">
-    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-    <span class="visually-hidden">Previous</span>
-  </button>
-  <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleDark" data-bs-slide="next">
-    <span class="carousel-control-next-icon" aria-hidden="true"></span>
-    <span class="visually-hidden">Next</span>
-  </button>
-</div> -->
 
 <main >
 
@@ -105,21 +67,21 @@ include("navbar.php");
   <!-- Wrap the rest of the page in another container to center all the content. -->
   
  <div class="container pt-3 ">
-  <div class="p-2 mb-2 bg-light rounded-3 im" >
-    <div class="container-fluid py-2 text-dark">
+  <div class="p-2 mb-2 bg-light rounded-3 im " >
+    <div class="container-fluid py-2 text-dark shadow-lg">
       <h1 class="display-5 fw-bold text-dark ">We’re wise beyond our collective years and intent on making the most of yours.</h1>
       <p  style="color:green" class="col-md-8 fs-4 text-left">Wealth advice with a disciplined, evidence-based approach is hard to come by. Fortunately, you’ve found your way here, as that’s precisely what Buckingham delivers.</p>
       <button class="btn btn-primary btn-lg button-92 " type="button" onclick="window.location.href='contactus.php'">CONTACT </button>
       <div class="row align-items-md-stretch">
         <div class="col-md-6  mt-2 ">
-          <div class="h-100 p-5 text-bg-dark rounded-3  h5 ">
+          <div class="h-100 p-5 text-bg-dark rounded-3  h5 shadow-lg ">
             <h2 class="text-success">Good is never good enough.</h2>
             <p>It’s what drives us to find clear, academic answers to your every question. And every follow-up question. Until all that’s left is clarity, comfort and a strategy built to your specific needs and values.</p>
         
            </div>
         </div>
         <div class="col-md-6  mt-2">
-          <div class="h-100 p-5 bg-light border rounded-3 text-dark ">
+          <div class="h-100 p-5 bg-light border rounded-3 text-dark  shadow-lg">
             <h2 class="text-success">Live in the now.
               We’ll keep our eye on what’s ahead.</h2>
             <p>Guided by evidence and fueled by your ambitions, our team will seek to continuously optimize a wealth strategy distinctly tailored to your needs. Helping you focus on the now and letting us prepare for what’s next.</p>
@@ -141,24 +103,24 @@ include("navbar.php");
 
     <hr class="featurette-divider">
 
-    <div class="row featurette reveal">
-      <div class="col-md-7 pt-5">
+    <div class="row featurette reveal shadow-lg">
+      <div class="col-md-7 pt-5 ">
         <h2 class="featurette-heading fw-normal lh-1 text-center fw-bolder pt-5 size mb-2"> Personal Loan</h2>
         <p class="lead text-dark fw-bold text-center"> A Personal Loan is ideal for funding planned events, such as marriages, vacations & home renovation or unplanned ones, like emergency medical procedures. The best part is that you can get a Loan quickly through an end to end online process for your every need.</p>
       
       </div>
       <div class="col-md-5">
        
-        <img class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto border" src="personalloanindex.png" alt="" width="500" height="500">
+        <img class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto border " src="personalloanindex.png" alt="" width="500" height="500">
       </div>
-      <div class="center m-3">
-      <a href="first.php" class="btn btn-primary btn-lg active text-center center button-92" role="button" aria-pressed="true">Apply Now</a>
+      <div class="center m-3  ">
+      <a href="first.php" class="btn btn-primary  btn-lg active text-center center button-92" role="button" aria-pressed="true">Apply Now</a>
       </div>
     </div>
 
     <hr class="featurette-divider">
 
-    <div class="row featurette reveal">
+    <div class="row featurette reveal ">
       <div class="col-md-7 order-md-2 pt-5">
         <h2 class="featurette-heading fw-normal lh-1 text-center fw-bolder pt-5 size mb-2 ">Education Loan</h2>
         <p class="lead text-dark fw-bold text-center">Why should money stand in the way of the future? A simple way to fund your dreams is by obtaining an education loan. An education loan can assist you in gaining admission to the university of your interest.</p>
@@ -177,7 +139,7 @@ include("navbar.php");
 
     <hr class="featurette-divider">
 
-    <div class="row featurette reveal">
+    <div class="row featurette reveal shadow-lg">
       <div class="col-md-7">
         <h2 class="featurette-heading fw-normal lh-1 text-center fw-bolder pt-5 size mb-2">Meet Me</h2>
         <p class="lead text-dark fw-bold text-center">Asking someone for a coffee meeting might sound unprofessional, but it's actually a great way to get to know a client or colleague better. Coffee meetings offer a more relaxed and personal setting to discuss things, which can potentially help a customer or colleague open up more about the company, brand or anything else that's on their mind.</p>
@@ -193,7 +155,7 @@ include("navbar.php");
     </div>
     <hr class="featurette-divider">
     
-    <div class="row featurette reveal">
+    <div class="row featurette reveal ">
       <div class="col-md-7">
         <h2 class="featurette-heading fw-normal lh-1 text-center fw-bolder pt-5 size mb-2">Xerox</h2>
         <p class="lead text-dark fw-bold text-center">Quality online document printout service in India for office, corporate, school, college and home with cheap price. You can print colour or black & white pdf documents, thesis, print training reports, college project reports, pdf book printing etc online with spiral binding, twin wiro binding, soft cover perfect binding or hard binding and delivered it to anywhere in India.</p>
@@ -232,7 +194,7 @@ include("navbar.php");
 
 
 
-  <div class="container col-xxl-10 px-4 py-5 reveal">
+  <div class="container col-xxl-10 px-4 py-5 reveal shadow-lg">
     <div class="row flex-lg-row-reverse align-items-center g-5 py-5">
       
       <div class="col-lg-6 text-dark">
@@ -240,13 +202,13 @@ include("navbar.php");
         <p class="lead">Quickly design and customize responsive mobile-first sites with Bootstrap, the world’s most popular front-end open source toolkit, featuring Sass variables and mixins, responsive grid system, extensive prebuilt components, and powerful JavaScript plugins.</p>
         </div>
       <div class="col-10 col-sm-8 col-lg-6">
-        <img src="ANIL.jpeg" class="d-block mx-lg-auto img-fluid border" alt="Bootstrap Themes" width="500" height="400" loading="lazy">
+        <img src="anil2.jfif" class="d-block mx-lg-auto img-fluid border" alt="......loading" width="500" height="400" loading="lazy">
       </div>
     </div>
   </div>
 
   <hr class="featurette-divider ">
-  <div class="container reveal ">
+  <div class="container reveal  ">
  <iframe width="100%" height="500px" src="C8E9W3PRP7BFS704.mp4" title="YouTube video player" frameborder="0" allow="accelerometer;  clipboard-write; encrypted-media; gyroscope; picture-in-picture"  autoplay=1 allowfullscreen></iframe>
  </div>
 <!-- 
