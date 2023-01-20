@@ -103,7 +103,7 @@ include("navbar.php");
 
     <hr class="featurette-divider">
 
-    <div class="row featurette reveal shadow-lg">
+    <div class="row featurette reveal shadow-lg im1 ">
       <div class="col-md-7 pt-5 ">
         <h2 class="featurette-heading fw-normal lh-1 text-center fw-bolder pt-5 size mb-2"> Personal Loan</h2>
         <p class="lead text-dark fw-bold text-center"> A Personal Loan is ideal for funding planned events, such as marriages, vacations & home renovation or unplanned ones, like emergency medical procedures. The best part is that you can get a Loan quickly through an end to end online process for your every need.</p>
@@ -120,7 +120,7 @@ include("navbar.php");
 
     <hr class="featurette-divider">
 
-    <div class="row featurette reveal ">
+    <div class="row featurette reveal im1">
       <div class="col-md-7 order-md-2 pt-5">
         <h2 class="featurette-heading fw-normal lh-1 text-center fw-bolder pt-5 size mb-2 ">Education Loan</h2>
         <p class="lead text-dark fw-bold text-center">Why should money stand in the way of the future? A simple way to fund your dreams is by obtaining an education loan. An education loan can assist you in gaining admission to the university of your interest.</p>
@@ -139,7 +139,7 @@ include("navbar.php");
 
     <hr class="featurette-divider">
 
-    <div class="row featurette reveal shadow-lg">
+    <div class="row featurette reveal shadow-lg im">
       <div class="col-md-7">
         <h2 class="featurette-heading fw-normal lh-1 text-center fw-bolder pt-5 size mb-2">Meet Me</h2>
         <p class="lead text-dark fw-bold text-center">Asking someone for a coffee meeting might sound unprofessional, but it's actually a great way to get to know a client or colleague better. Coffee meetings offer a more relaxed and personal setting to discuss things, which can potentially help a customer or colleague open up more about the company, brand or anything else that's on their mind.</p>
@@ -155,7 +155,7 @@ include("navbar.php");
     </div>
     <hr class="featurette-divider">
     
-    <div class="row featurette reveal ">
+    <div class="row featurette reveal im ">
       <div class="col-md-7">
         <h2 class="featurette-heading fw-normal lh-1 text-center fw-bolder pt-5 size mb-2">Xerox</h2>
         <p class="lead text-dark fw-bold text-center">Quality online document printout service in India for office, corporate, school, college and home with cheap price. You can print colour or black & white pdf documents, thesis, print training reports, college project reports, pdf book printing etc online with spiral binding, twin wiro binding, soft cover perfect binding or hard binding and delivered it to anywhere in India.</p>
@@ -194,7 +194,7 @@ include("navbar.php");
 
 
 
-  <div class="container col-xxl-10 px-4 py-5 reveal shadow-lg">
+  <div class="container col-xxl-10 px-4 py-5 reveal shadow-lg im">
     <div class="row flex-lg-row-reverse align-items-center g-5 py-5">
       
       <div class="col-lg-6 text-dark">

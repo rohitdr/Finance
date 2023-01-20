@@ -1,6 +1,6 @@
 
    
-      body{
+      .im1{
         background-image: url('hand-painted-watercolor-pastel-sky-background_23-2148902771.webp');
            height: 100%;
            background-repeat:no-repeat;
@@ -12,6 +12,7 @@
        background-image: url('692085.jpg');
        background-repeat:no-repeat;
        background-size:cover;
+      
 
       }
      .h{
@@ -34,5 +35,9 @@ transition:all 2s ease;
      .stylishfont{
       font-family: 'Rubik Gemstones', 'cursive';
      }
+     main{
+      background-color:#A0522D;
+     }
+     
  
     
